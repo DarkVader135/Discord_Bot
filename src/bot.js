@@ -16,7 +16,3 @@ for(const folder of functionFolders) {
 client.handleEvents();
 client.handleCommands();
 client.login(token);
-
-client.on('messageCreate', (messsage) =>{
-    console.log(messsage.content);
-});
