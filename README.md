@@ -5,7 +5,7 @@ Simple discord bot to re-embed twitter tiktok embeds to be better viewed both on
 
 - then to install the nessessary packages run "npm i discord.js discord-api-types @discordjs/rest dotenv chalk@4.1.2"
 
-- to start the bot make sure you are in the same directory as package.json and run "npm run test" or "node ." to start the bot 
+- to start the bot make sure you are in the same directory as package.json and run "npm run test" or "node ." to start the bot, make sure you have a token set in the .env file other wise the script won't connect to your application  
 
 
 
